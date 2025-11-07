@@ -76,7 +76,7 @@ Setup Instructions (Windows)
 
 1\. Clone and open the project
 
-git clone https://github.com/chandu18\_25/queuectl.git
+git clone https://github.com/chandu1825/queuectl.git
 
 cd queuectl
 
