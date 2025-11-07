@@ -1,0 +1,5 @@
+{
+  "id": "failwin",
+  "command": "powershell -Command exit 2",
+  "max_retries": 2
+}

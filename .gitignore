@@ -1,0 +1,14 @@
+# Python & env
+venv/
+__pycache__/
+*.pyc
+
+# Local DB and runtime files
+jobs.db
+queuectl.stop
+queuectl.workers.pids
+
+# Editor / OS files
+.vscode/
+.DS_Store
+Thumbs.db
